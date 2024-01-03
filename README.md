@@ -8,14 +8,14 @@
 
 📫 I’m currently learning NextJS, ReactJS, React Native, ExpressJS and NodeJS.
 
-## This is my project
+## Project
 ### Web
 - [Title](https://desalancer.github.io)
 - [Title](https://desalancer.github.io)
 - [Title](https://desalancer.github.io)
 
 
-## Here is my tech stack
+## Tech stack
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="30" title="Tailwind"/> &nbsp;
 ![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg "Node Package Manager") &nbsp;
 ![js](https://user-images.githubusercontent.com/79355239/151290689-1e8de89e-fa0e-4198-ac3c-481f4813895a.svg "Javascript") &nbsp;
