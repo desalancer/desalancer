@@ -2,11 +2,11 @@
 
 <!-- Greeting -->
 ##  About Me
-🎓 I am Desalancer who focus on talent development at villages.
+🎓 I am DESA Freelancer who focus on talent development from villages.
 
 💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
-📫 I’m currently learning NextJS, ReactJS, React Native, ExpressJS and NodeJS.
+📫 I’m currently learning NextJS, ReactJS, React Native, and NodeJS.
 
 ## Project
 ### Web
